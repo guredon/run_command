@@ -1,0 +1,15 @@
+#-----------
+# 言語設定
+#-----------
+setenv LANG en          # echo $LANG で調べたときに表示
+setenv LC_ALL en        # 実際に表示される言語
+
+#-----------
+# alias
+#-----------
+
+# os のリポジトリまで移動
+alias os cd /net/home/hg/y11/e115715/os
+
+# 1階層上へ移動
+alias .. cd ..
