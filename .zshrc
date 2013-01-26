@@ -71,7 +71,7 @@ alias ex2='cd /Users/matsudayuta/Documents/lecture/2nd_2/experiment2'
 # デスクトップまで移動
 alias desk='cd /Users/matsudayuta/Desktop'
 
-# のパスを呼ぶ
+# hg のパスを表示
 alias push='echo "ssh://e115715@yomitan.ie.u-ryukyu.ac.jp//home/hg/y11/e115715/os/ex1.1"'
 
 
